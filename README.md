@@ -13,4 +13,4 @@ I Tumbadoware, am a learning web developer, aspiring graphic designer, & an expl
 
 # How To Contact Me
 
-If Any Suggestions/Errors With The Scripts, please dm me on | Discord: Chief Keef#8882 | <br> | Twitter: Tumbadoware | <br> | Instagram: Tumbadoware | <br> | Tiktok: fw.eternal | <br> |Business email: eternal@tumbadoware.xyz | <br> |Personal email: pullabled@gmail.com |
+If Any Suggestions/Errors With The Scripts, please dm me on | Discord: Chief Keef#8882 | <br> | Twitter: Tumbadoware | <br> | Instagram: Tumbadoware | <br> | Tiktok: fw.eternal | <br> | Business email: eternal@tumbadoware.xyz | <br> | Personal email: pullabled@gmail.com |
