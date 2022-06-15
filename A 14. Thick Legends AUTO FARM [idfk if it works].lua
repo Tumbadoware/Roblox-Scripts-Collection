@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/TLAF.lua"true))()
+loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/TLAF.lua", true))()
