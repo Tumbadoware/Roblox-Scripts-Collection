@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Tumbadoware/Roblox-Scripts-Collection/main/loadstring%20maker/A%2014.%20Thick%20Legends%20AUTO%20FARM%20%5Bidfk%20if%20it%20works%5D.lua"),true))()
+loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/TLAF.lua"true))()
