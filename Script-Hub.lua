@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("scripts.eternalwhis.ml/main/eternal-hub.lua"))()
+loadstring(game:HttpGet("http://scripts.eternalwhis.ml/main/eternal-hub.lua"))()
