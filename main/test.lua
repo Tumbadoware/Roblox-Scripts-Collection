@@ -170,7 +170,7 @@ BVV4.Text = "Bedwars Vape V4"
 BVV4.TextColor3 = Color3.fromRGB(0, 0, 0)
 BVV4.TextSize = 14.000
 BVV4.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDad/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 end)
 
 BloxScript.Name = "BloxScript"
@@ -185,7 +185,6 @@ BloxScript.TextSize = 14.000
 BloxScript.MouseButton1Down:Connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/PainfulDestroyer/Roblox/main/Scar%20Hub"))()
 end)
-
 
 IY.Name = "IY"
 IY.Parent = Frame_2
@@ -223,7 +222,7 @@ MSDH.Text = "Macro Script[DA HOOD]"
 MSDH.TextColor3 = Color3.fromRGB(0, 0, 0)
 MSDH.TextSize = 14.000
 MSDH.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("http://scripts.eternalwhis.ml/main/MSDH.lua"))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/TSQ-new/KelpHub/main/Mining%20Simulator%202"))()
 end)
 
 piratespeed.Name = "pirate-speed"
@@ -251,7 +250,6 @@ NLAF.TextSize = 14.000
 NLAF.MouseButton1Down:Connect(function()
 	loadstring(game:HttpGet("https://raw.githubusercontent.com/TrixAde/Proxima-Hub/main/Main.lua"))()
 end)
-
 
 NAT.Name = "NAT"
 NAT.Parent = Frame_2
@@ -405,7 +403,7 @@ CROG.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 CROG.Position = UDim2.new(0.0534014031, 0, 0.523708224, 0)
 CROG.Size = UDim2.new(0, 119, 0, 32)
 CROG.Font = Enum.Font.SourceSans
-CROG.Text = "Chicago Remastered "
+CROG.Text = "Chicago Remastered"
 CROG.TextColor3 = Color3.fromRGB(0, 0, 0)
 CROG.TextSize = 14.000
 CROG.MouseButton1Down:Connect(function()
@@ -475,7 +473,7 @@ TLAF.Text = "Thick Legends"
 TLAF.TextColor3 = Color3.fromRGB(0, 0, 0)
 TLAF.TextSize = 14.000
 TLAF.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/TLAF.lua"))()
+	loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/TLAF.lua")))() 
 end)
 
 CWG.Name = "CWG"
@@ -500,22 +498,22 @@ BloxFruits.Font = Enum.Font.SourceSans
 BloxFruits.Text = "BloxFruits GUI"
 BloxFruits.TextColor3 = Color3.fromRGB(0, 0, 0)
 BloxFruits.TextSize = 14.000
-BloxScript.MouseButton1Down:Connect(function()
+BloxFruits.MouseButton1Down:Connect(function()
 	loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
 end)
 
 TextLabel_7.Parent = Frame_3
 TextLabel_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-TextLabel_7.Position = UDim2.new(0.35084033, 0, 0.878327012, 0)
+TextLabel_7.Position = UDim2.new(0.348739475, 0, 0.874495625, 0)
 TextLabel_7.Size = UDim2.new(0, 200, 0, 25)
 TextLabel_7.Font = Enum.Font.SourceSans
-TextLabel_7.Text = "More Scripts Coming Soon!"
+TextLabel_7.Text = "More Scripts Weekly!"
 TextLabel_7.TextColor3 = Color3.fromRGB(0, 0, 0)
 TextLabel_7.TextSize = 14.000
 
 -- Scripts:
 
-local function GJUMDWG_fake_script() -- Homebutton.LocalScript 
+local function RINOJE_fake_script() -- Homebutton.LocalScript 
 	local script = Instance.new('LocalScript', Homebutton)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -524,8 +522,8 @@ local function GJUMDWG_fake_script() -- Homebutton.LocalScript
 		script.Parent.Parent.Scripts2.Frame.Visible = false
 	end)
 end
-coroutine.wrap(GJUMDWG_fake_script)()
-local function BPAUOF_fake_script() -- Scripts.LocalScript 
+coroutine.wrap(RINOJE_fake_script)()
+local function HSDLQJF_fake_script() -- Scripts.LocalScript 
 	local script = Instance.new('LocalScript', Scripts)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -534,8 +532,8 @@ local function BPAUOF_fake_script() -- Scripts.LocalScript
 		script.Parent.Parent.Scripts2.Frame.Visible = false
 	end)
 end
-coroutine.wrap(BPAUOF_fake_script)()
-local function WLPC_fake_script() -- main.LocalScript 
+coroutine.wrap(HSDLQJF_fake_script)()
+local function IGJE_fake_script() -- main.LocalScript 
 	local script = Instance.new('LocalScript', main)
 
 	--Don't forget to subscribe for more!
@@ -581,8 +579,8 @@ local function WLPC_fake_script() -- main.LocalScript
 		end
 	end)
 end
-coroutine.wrap(WLPC_fake_script)()
-local function VUMGFY_fake_script() -- Scripts2.LocalScript 
+coroutine.wrap(IGJE_fake_script)()
+local function IVUBHA_fake_script() -- Scripts2.LocalScript 
 	local script = Instance.new('LocalScript', Scripts2)
 
 	script.Parent.MouseButton1Click:Connect(function()
@@ -591,8 +589,8 @@ local function VUMGFY_fake_script() -- Scripts2.LocalScript
 		script.Parent.Parent.Scripts.Frame.Visible = false
 	end)
 end
-coroutine.wrap(VUMGFY_fake_script)()
-local function WDAHNX_fake_script() -- MainGUI.LocalScript 
+coroutine.wrap(IVUBHA_fake_script)()
+local function WXLJAOR_fake_script() -- MainGUI.LocalScript 
 	local script = Instance.new('LocalScript', MainGUI)
 
 	function onKeyPress(inputObject, gameProcessedEvent)
@@ -604,4 +602,4 @@ local function WDAHNX_fake_script() -- MainGUI.LocalScript
 	end
 	game:GetService("UserInputService").InputBegan:connect(onKeyPress)
 end
-coroutine.wrap(WDAHNX_fake_script)()
+coroutine.wrap(WXLJAOR_fake_script)()
