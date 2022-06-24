@@ -486,7 +486,7 @@ CWG.Text = "Combat Warrior GUI"
 CWG.TextColor3 = Color3.fromRGB(0, 0, 0)
 CWG.TextSize = 14.000
 CWG.MouseButton1Down:Connect(function()
-	loadstring(game:HttpGet("https://projecthook.xyz/scripts/free.lua"))()
+	loadstring(game:HttpGet("https://projecthook.xyz/scripts/new-free.lua"))()
 end)
 
 BloxFruits.Name = "BloxFruits"
