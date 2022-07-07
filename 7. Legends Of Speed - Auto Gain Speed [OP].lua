@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("http://scripts.eternalwhis.ml/main/pirate-speed.lua"),true))()
+loadstring(game:HttpGet(("https://scripts.eternalwhis.ml/main/pirate-speed.lua"),true))()
